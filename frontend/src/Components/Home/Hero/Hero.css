@@ -1,0 +1,11 @@
+.HeroImage{
+    background-image: url('/public/images/Hero.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.Herosubmit:hover{
+    background-color: orange;
+    color: white;
+    transition:0.2s;
+}

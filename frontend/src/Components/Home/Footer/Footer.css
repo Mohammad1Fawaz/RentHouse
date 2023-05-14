@@ -1,0 +1,25 @@
+.footer{
+    background-image: url('/public/images/Footer.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+}
+
+.footer span{
+    cursor: pointer;
+    transition: 0.6s;
+    display: block;
+    font-size: 14px;
+    display:block;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+span:hover{
+    transform: translateX(10%);
+    color: #ff8d1b;
+}
+.footer h6{
+    display:block;
+    text-align: center;
+}

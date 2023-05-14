@@ -1,0 +1,7 @@
+.agentbutton:hover{
+    background-color: black !important;
+    color: white !important;
+    font-weight: 500;
+    border: 1px solid white;
+    transition: 1px;
+}

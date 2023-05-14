@@ -1,0 +1,15 @@
+.card{
+    border: none !important;
+}
+
+.card-body{
+    padding: 0;
+    padding-top: 2%;
+}
+
+.Featurebutton:hover{
+    background-color: white;
+    color: orange !important;
+    border: 1px solid orange;
+    transition: 0.4s;
+}

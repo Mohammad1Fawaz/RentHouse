@@ -1,0 +1,6 @@
+.servicesbutton:hover{
+    background-color: white;
+    color: orange !important;
+    border: 1px solid orange;
+    transition: 0.4s;
+}
